@@ -1,4 +1,4 @@
-#Magic Square Game
+**Magic Square Game**
 Interactive Puzzle Game
 
 Requirements:
