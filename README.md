@@ -5,4 +5,4 @@ Requirements:
 - Python Tkinter
 
 How to Run:
-- Run MagicSquaremain.py to start the game
+- Run magicSquareMain.py to start the game
