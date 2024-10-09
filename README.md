@@ -1,4 +1,8 @@
-APCSP Create Task
-(Run the main file to start the game)
+#Magic Square Game
+Interactive Puzzle Game
 
-*Must have Python Tkinter 
+Requirements:
+- Python Tkinter
+
+How to Run:
+- Run MagicSquaremain.py to start the game
